@@ -13,7 +13,7 @@ export const skills = [
 ];
 
 export const git = "../assets/github.svg";
-export const resume = "Resume container/Sai Eeshwar D_Resume.pdf";
+export const resume = "Resume container/Resume__sai_eeshwar_D.pdf";
 
 
 
