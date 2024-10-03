@@ -6,12 +6,10 @@ export const linkedin = "https://www.linkedin.com/in/eeshward/";
 export const twitter = "https://x.com/d_eeshwar";
 
 export const skills = [
-    "Robotics Ringleader",
-    "Crazy Invention Creator",
-    "High Creativity Connoisseur",
-    "IoT Innovator",
-    "Prototyping Mastery",
-    "3D Design Dynamo"
+    "Machine Learning",
+    "Video Editing - Davinci Resolve",
+    "Photography",
+    "AI Engineer"
 ];
 
 export const git = "../assets/github.svg";
